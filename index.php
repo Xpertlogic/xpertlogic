@@ -7,14 +7,14 @@
 
 
 <body>
-    <div class="container-xxl bg-white p-0">
+    <div class="bg-white p-0">
         <?php include 'common/loader.php' ?>
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="position-relative p-0">
 
             <?php include 'common/navbar.php' ?>
-            <div class="container-xxl bg-primary hero-header">
+            <div class="bg-primary hero-header">
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
@@ -127,7 +127,7 @@
 
 
         <!-- Facts Start -->
-        <div class="container-xxl bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
@@ -238,7 +238,7 @@
 
 
         <!-- Newsletter Start -->
-        <div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-7 text-center">
