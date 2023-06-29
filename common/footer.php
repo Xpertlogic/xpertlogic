@@ -79,6 +79,8 @@
         </div>
         <!-- Footer End -->
 
-
+        <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/40097068.js"></script>
+<!-- End of HubSpot Embed Code -->
         <!-- Back to Top -->
         <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>

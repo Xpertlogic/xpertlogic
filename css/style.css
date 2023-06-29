@@ -131,6 +131,7 @@ h6,
 
 .sticky-top.navbar-light .navbar-brand img {
     max-height: 45px;
+    filter: invert();
 }
 
 @media (max-width: 991.98px) {
@@ -211,7 +212,7 @@ h6,
 /*** Hero Header ***/
 .hero-header {
     margin-bottom: 6rem;
-    padding: 18rem 0;
+    padding: 14rem 0 18rem;
     background:
         url(../img/blob-top-left.png),
         url(../img/blob-top-right.png),
