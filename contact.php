@@ -7,15 +7,15 @@
 
 
 <body>
-    <div class="container-xxl bg-white p-0">
+    <div class="bg-white p-0">
         <?php include 'common/loader.php' ?>
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="position-relative p-0">
 
             <?php include 'common/navbar.php' ?>
 
-            <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="py-5 bg-primary hero-header">
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 py-5">
                         <div class="col-12 text-center">
