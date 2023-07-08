@@ -46,9 +46,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-7">
                         <div class="wow fadeInUp" data-wow-delay="0.3s">
-                            <p class="text-center mb-4">The contact form is currently inactive. Get a functional and
-                                working contact form with Ajax & PHP in a few minutes. Just copy and paste the files,
-                                add a little code and you're done.</p>
+                            <p class="text-center mb-4">Have a question or need assistance? Contact us and our friendly team will be happy to help. We're here to provide support, answer inquiries, and address any concerns you may have. Reach out to us today and let us assist you in the best way possible</p>
                                     <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
                                     <script>
                                     hbspt.forms.create({
