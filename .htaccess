@@ -1,0 +1,28 @@
+# Enable Rewrite Engine
+RewriteEngine On
+
+# Set base directory (if your project is in a subdirectory)
+# RewriteBase /subdirectory/
+
+# Redirect to HTTPS (optional, if you want to force HTTPS)
+# RewriteCond %{HTTPS} !=on
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirect www to non-www (optional, choose either www or non-www)
+# RewriteCond %{HTTP_HOST} ^www\.example\.com$ [NC]
+# RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+
+# Custom 404 Error Page
+ErrorDocument 404 /404.html
+
+# Rewrite rules for pretty URLs or specific redirects
+# RewriteRule ^old-page$ /new-page [R=301,L]
+# RewriteRule ^category/([^/]+)/?$ /index.php?category=$1 [L]
+
+# Handle PHP files as PHP (if needed)
+# Remove these lines if not using PHP
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+# Disable directory browsing
+Options -Indexes

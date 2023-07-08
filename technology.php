@@ -93,7 +93,7 @@
                             
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <!-- <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex flex-column text-center rounded">
                             <div class="service-icon flex-shrink-0">
                                 <img src="img/technology/js.svg" width="30" alt="Javascript">
@@ -102,7 +102,7 @@
                             <p class="m-0">Experience the dynamic capabilities of JavaScript. Our team harnesses the power of JavaScript to add interactivity and functionality to your website. Whether it's creating interactive forms, implementing smooth scrolling, or developing engaging user interfaces, JavaScript enables us to enhance the user experience and bring your website to life.</p>
                             
                         </div>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="text-center mb-5 second-title">Backend</h1>
