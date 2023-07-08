@@ -29,7 +29,7 @@
                                 Us</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
-                            <img class="img-fluid animated zoomIn" src="img/hero.png" alt="">
+                            <img class="img-fluid animated zoomIn" src="https://ik.imagekit.io/xpertdigital/hero.png?updatedAt=1688838596288" alt="">
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         <a href="about.php" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="img/about.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="https://ik.imagekit.io/xpertdigital/about.png?updatedAt=1688838596324">
                     </div>
                 </div>
             </div>
