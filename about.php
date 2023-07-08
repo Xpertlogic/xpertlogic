@@ -6,14 +6,14 @@
 </head>
 
 <body>
-    <div class="container-xxl bg-white p-0">
+    <div class="bg-white p-0">
         <?php include 'common/loader.php' ?>
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="position-relative p-0">
 
             <?php include 'common/navbar.php' ?>
-            <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="py-5 bg-primary hero-header">
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 py-5">
                         <div class="col-12 text-center">
@@ -111,7 +111,7 @@
                         <a href="" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/about.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="img/about.png">
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
 
 
         <!-- Facts Start -->
-        <div class="container-xxl bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">

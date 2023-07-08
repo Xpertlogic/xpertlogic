@@ -6,15 +6,15 @@
 </head>
 
 <body>
-    <div class="container-xxl bg-white p-0">
+    <div class="bg-white p-0">
         <?php include 'common/loader.php' ?>
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="position-relative p-0">
 
             <?php include 'common/navbar.php' ?>
 
-            <div class="container-xxl py-5 bg-primary hero-header">
+            <div class="py-5 bg-primary hero-header">
                 <div class="container my-5 py-5 px-lg-5">
                     <div class="row g-5 py-5">
                         <div class="col-12 text-center">
@@ -104,7 +104,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fab fa-android fa-2x"></i>
                             </div>
-                            <h5 class="mb-3">App Development</h5>
+                            <h5 class="mb-3">App Developments</h5>
                             <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet lorem.</p>
                             <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
@@ -117,7 +117,7 @@
 
 
         <!-- Newsletter Start -->
-        <div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-7 text-center">
@@ -150,7 +150,7 @@
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-1.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>
@@ -163,7 +163,7 @@
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-2.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>
@@ -176,7 +176,7 @@
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-3.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>

@@ -7,26 +7,25 @@
 
 
 <body>
-    <div class="container-xxl bg-white p-0">
+    <div class="bg-white p-0">
         <?php include 'common/loader.php' ?>
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="position-relative p-0">
 
             <?php include 'common/navbar.php' ?>
-            <div class="container-xxl bg-primary hero-header">
+            <div class="bg-primary hero-header">
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">A Digital Agency Of Inteligents & Creative
-                                People</h1>
-                            <p class="text-white pb-3 animated slideInDown">Tempor rebum no at dolore lorem clita rebum
-                                rebum ipsum rebum stet dolor sed justo kasd. Ut dolor sed magna dolor sea diam. Sit diam
-                                sit justo amet ipsum vero ipsum clita lorem</p>
-                            <a href=""
+                            <h2 class="text-white mb-4 animated slideInDown">Transforming Your Business with Cutting-Edge IT Solutions</h2>
+                            <p class="text-white pb-3 animated slideInDown">We specialize in delivering innovative technology solutions that 
+                                drive efficiency, productivity, and growth.XpertInfo is the trusted partner for comprehensive IT services tailored to
+                                meet the unique needs of your business.</p>
+                            <a href="about.php"
                                 class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Read
                                 More</a>
-                            <a href="" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact
+                            <a href="contact.php" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Contact
                                 Us</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
@@ -39,49 +38,13 @@
         <!-- Navbar & Hero End -->
 
 
-
-
-        <!-- Feature Start -->
-        <div class="container-xxl py-5">
-            <div class="container py-5 px-lg-5">
-                <div class="row g-4">
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-mail-bulk text-primary mb-4"></i>
-                            <h5 class="mb-3">Digital Marketing</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-search text-primary mb-4"></i>
-                            <h5 class="mb-3">SEO & Backlinks</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
-                            <h5 class="mb-3">Design & Development</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Feature End -->
-
-
-        <!-- About Start -->
-        <div class="container-xxl py-5">
+<!-- About Start -->
+<div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="section-title text-secondary">About Us<span></span></p>
-                        <h1 class="mb-5">#1 Digital solution with 10 years of experience</h1>
+                        <h2 class="mb-5">#1 Digital solution with 10 years of experience</h2>
                         <p class="mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita
                             erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo eirmod magna dolore
                             erat amet</p>
@@ -118,16 +81,145 @@
                         <a href="" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" src="img/about.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="img/about.png">
                     </div>
                 </div>
             </div>
         </div>
         <!-- About End -->
 
-
-        <!-- Facts Start -->
-        <div class="container-xxl bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
+         <!-- Service Start -->
+         <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="section-title text-secondary justify-content-center"><span></span>Our
+                        Services<span></span></p>
+                    <h2 class="text-center mb-5">What Solutions We Provide</h2>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fa fa-search fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">Digital Enterprise Services</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fa fa-laptop-code fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">E-commerce Solutions</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fab fa-facebook-f fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">SEO & Digital Marketing</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fa fa-mail-bulk fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">User Experience Services</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fa fa-thumbs-up fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">Mobile & Web App Development</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="service-item d-flex flex-column text-center rounded">
+                            <div class="service-icon flex-shrink-0">
+                                <i class="fab fa-android fa-2x"></i>
+                            </div>
+                            <h5 class="mb-3">CMS Solutions</h5>
+                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
+                                diam sed stet lorem.</p>
+                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Service End -->
+        <!-- Our Tech Capabilities Start -->
+        <section class="our-capability">
+        <div class="container-xxl pt-5">
+            <div class="container pt-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="section-title text-secondary justify-content-center"><span></span>Our
+                        Capabilities<span></span></p>
+                    <h2 class="text-center mb-5">Our Technology Capabilities</h2>
+                </div>
+            </div>
+        </div>    
+        <div class="bg-primary fact pb-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <div class="row g-4">
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <h3 class="text-white mb-4">Frontend</h3>
+                        <div class="logo-container d-flex">
+                          <img src="./img/technology/react.svg" alt="react"/>  
+                          <img src="./img/technology/angular.svg" alt="angular"/>  
+                          <img src="./img/technology/vue.svg" alt="vue"/>  
+                          <img src="./img/technology/js.svg" alt="js"/>  
+                          <img src="./img/technology/html.svg" alt="html"/>  
+                          <img src="./img/technology/css.svg" alt="css"/>   
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.3s">
+                        <h3 class="text-white mb-4">Backend & CMS</h3>
+                        <div class="logo-container d-flex">
+                          <img src="./img/technology/node.svg" alt="node"/>  
+                          <img src="./img/technology/magento.svg" alt="magento"/>  
+                          <img src="./img/technology/shopify.svg" alt="shopify"/>  
+                          <img src="./img/technology/prestashop.svg" alt="prestashop"/>  
+                          <img src="./img/technology/woo.svg" alt="woocommerce"/>  
+                          <img src="./img/technology/wplogo.svg" alt="wordpress" class="wp"/>  
+                          <img src="./img/technology/webflow.svg" alt="webflow"/>   
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.5s">
+                        <h3 class="text-white mb-4">UI/UX</h3>
+                        <div class="logo-container d-flex wide">
+                          <img src="./img/technology/figma.svg" alt="figma"/>  
+                          <img src="./img/technology/sketch.svg" alt="sketch"/>  
+                          <img src="./img/technology/adobe.svg" alt="adobe"/>    
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        </section>  
+        <!-- Facts End -->
+        <!-- Facts Start 
+        <div class="bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
@@ -153,98 +245,49 @@
                 </div>
             </div>
         </div>
-        <!-- Facts End -->
+        Facts End -->
 
 
-        <!-- Service Start -->
+        <!-- Feature Start -->
         <div class="container-xxl py-5">
             <div class="container py-5 px-lg-5">
-                <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="section-title text-secondary justify-content-center"><span></span>Our
-                        Services<span></span></p>
-                    <h1 class="text-center mb-5">What Solutions We Provide</h1>
-                </div>
                 <div class="row g-4">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-search fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">SEO Optimization</h5>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-mail-bulk text-primary mb-4"></i>
+                            <h5 class="mb-3">Digital Marketing</h5>
                             <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-laptop-code fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">Web Design</h5>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-search text-primary mb-4"></i>
+                            <h5 class="mb-3">SEO & Backlinks</h5>
                             <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fab fa-facebook-f fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">Social Media Marketing</h5>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                            <h5 class="mb-3">Design & Development</h5>
                             <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
                                 diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-mail-bulk fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">Email Marketing</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-thumbs-up fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">PPC Advertising</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item d-flex flex-column text-center rounded">
-                            <div class="service-icon flex-shrink-0">
-                                <i class="fab fa-android fa-2x"></i>
-                            </div>
-                            <h5 class="mb-3">App Development</h5>
-                            <p class="m-0">Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet
-                                diam sed stet lorem.</p>
-                            <a class="btn btn-square" href=""><i class="fa fa-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- Service End -->
-
-
+        <!-- Feature End -->
         <!-- Newsletter Start -->
-        <div class="container-xxl bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row justify-content-center">
                     <div class="col-lg-7 text-center">
                         <p class="section-title text-white justify-content-center"><span></span>Newsletter<span></span>
                         </p>
-                        <h1 class="text-center text-white mb-4">Stay Always In Touch</h1>
+                        <h2 class="text-center text-white mb-4">Stay Always In Touch</h2>
                         <p class="text-white mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos
                             labore. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo</p>
                         <div class="position-relative w-100 mt-3">
@@ -266,7 +309,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our
                         Projects<span></span></p>
-                    <h1 class="text-center mb-5">Recently Completed Projects</h1>
+                    <h2 class="text-center mb-5">Recently Completed Projects</h2>
                 </div>
                 <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="col-12 text-center">
@@ -390,14 +433,14 @@
         <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <p class="section-title text-secondary justify-content-center"><span></span>Testimonial<span></span></p>
-                <h1 class="text-center mb-5">What Say Our Clients!</h1>
+                <h2 class="text-center mb-5">What Say Our Clients!</h2>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item bg-light rounded my-4">
                         <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Diam dolor diam
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-1.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>
@@ -410,7 +453,7 @@
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-2.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>
@@ -423,7 +466,7 @@
                             ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit sed stet lorem sit
                             clita duo justo.</p>
                         <div class="d-flex align-items-center">
-                            <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg"
+                            <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/testimonial-3.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
                                 <h5 class="mb-1">Client Name</h5>
@@ -443,7 +486,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our Team<span></span>
                     </p>
-                    <h1 class="text-center mb-5">Our Team Members</h1>
+                    <h2 class="text-center mb-5">Our Team Members</h2>
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
