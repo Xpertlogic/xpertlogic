@@ -23,8 +23,7 @@
                             <hr class="bg-white mx-auto mt-0" style="width: 90px;">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb justify-content-center">
-                                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
-                                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
+                                    <li class="breadcrumb-item"><a class="text-white" href="index.php">Home</a></li>
                                     <li class="breadcrumb-item text-white active" aria-current="page">Contact</li>
                                 </ol>
                             </nav>
@@ -49,8 +48,7 @@
                         <div class="wow fadeInUp" data-wow-delay="0.3s">
                             <p class="text-center mb-4">The contact form is currently inactive. Get a functional and
                                 working contact form with Ajax & PHP in a few minutes. Just copy and paste the files,
-                                add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download
-                                    Now</a>.</p>
+                                add a little code and you're done.</p>
                                     <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
                                     <script>
                                     hbspt.forms.create({
