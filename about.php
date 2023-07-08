@@ -40,7 +40,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="section-title text-secondary">About Us<span></span></p>
-                        <h1 class="mb-5">#1 Digital solution with 10 years of experience</h1>
+                        <h1 class="mb-5"># About Xpert Logic Digital Pvt Ltd</h1>
                         <p class="mb-4">At Xpert Logic Digital Pvt Ltd, we are a leading provider of comprehensive IT services, dedicated to helping businesses achieve their digital goals. With our expertise in web development, app development, and digital marketing, we offer tailored solutions that empower our clients to thrive in the digital landscape.</p>
                         <div class="skill mb-4">
                             <h4>Web Development</h4>

@@ -44,13 +44,11 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="section-title text-secondary">About Us<span></span></p>
-                        <h2 class="mb-5">#1 Digital solution with 10 years of experience</h2>
-                        <p class="mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita
-                            erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo eirmod magna dolore
-                            erat amet</p>
+                        <h2 class="mb-5"># About Xpert Logic Digital Pvt. Ltd.</h2>
+                        <p class="mb-4">At Xpert Logic Digital Pvt Ltd, we are a leading provider of comprehensive IT services, dedicated to helping businesses achieve their digital goals.</p>
                         <div class="skill mb-4">
                             <div class="d-flex justify-content-between">
-                                <p class="mb-2">Digital Marketing</p>
+                                <p class="mb-2">Web App Development</p>
                                 <p class="mb-2">85%</p>
                             </div>
                             <div class="progress">
@@ -70,7 +68,7 @@
                         </div>
                         <div class="skill mb-4">
                             <div class="d-flex justify-content-between">
-                                <p class="mb-2">Design & Development</p>
+                                <p class="mb-2">Digital Marketing</p>
                                 <p class="mb-2">95%</p>
                             </div>
                             <div class="progress">
@@ -78,7 +76,7 @@
                                     aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                         </div>
-                        <a href="" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
+                        <a href="about.php" class="btn btn-primary py-sm-3 px-sm-5 rounded-pill mt-3">Read More</a>
                     </div>
                     <div class="col-lg-6">
                         <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="img/about.png">
@@ -123,7 +121,7 @@
                           <img src="./img/technology/shopify.svg" alt="shopify"/>  
                           <img src="./img/technology/prestashop.svg" alt="prestashop"/>  
                           <img src="./img/technology/woo.svg" alt="woocommerce"/>  
-                          <img src="./img/technology/wplogo.svg" alt="wordpress" class="wp"/>  
+                          <img src="./img/technology/wordpress.svg" alt="wordpress" class="wp"/>  
                           <img src="./img/technology/webflow.svg" alt="webflow"/>   
                         </div>
                     </div>
