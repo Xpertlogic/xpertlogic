@@ -19,7 +19,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex flex-column text-center rounded">
                             <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-laptop-code fa-2x"></i>
+                                <i class="fa fa-solid fa-cart-plus fa-2x"></i>
                             </div>
                             <h5 class="mb-3">E-commerce Solutions</h5>
                             <p class="m-0">E-commerce solutions enable businesses to establish and manage online stores, facilitating the buying and selling of products or services over the internet.</p>
@@ -39,17 +39,17 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="service-item d-flex flex-column text-center rounded">
                             <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-mail-bulk fa-2x"></i>
+                                <i class="fa fa-solid fa-users fa-2x"></i>
                             </div>
                             <h5 class="mb-3">User Experience Services</h5>
-                            <p class="m-0"> User Experience (UX) services focus on designing and improving the overall user experience of a product or service through user research, interface design, information architecture, usability testing, and other techniques.</p>
+                            <p class="m-0"> UX services focus on designing & improving the overall user experience of a product through user research, interface design, information architecture & usability testing</p>
                             
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="service-item d-flex flex-column text-center rounded">
                             <div class="service-icon flex-shrink-0">
-                                <i class="fa fa-thumbs-up fa-2x"></i>
+                                <i class="fab fa-android fa-2x"></i>
                             </div>
                             <h5 class="mb-3">Mobile & Web App Development</h5>
                             <p class="m-0">Mobile and web app development is the process of creating and deploying software applications for mobile devices and web browsers. </p>
@@ -59,7 +59,7 @@
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="service-item d-flex flex-column text-center rounded">
                             <div class="service-icon flex-shrink-0">
-                                <i class="fab fa-android fa-2x"></i>
+                                <i class="fa fa-solid fa-comment-dots fa-2x"></i>
                             </div>
                             <h5 class="mb-3">CMS Solutions</h5>
                             <p class="m-0"> CMS solutions are software platforms that simplify content creation, organization, and publishing for websites and other digital platforms. </p>

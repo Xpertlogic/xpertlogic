@@ -46,6 +46,6 @@ $first_part = end($components);
             </div> -->
             <a href="contact.php" class="nav-item nav-link <?php if ($first_part=="contact.php") {echo "active"; } else  {echo "noactive";}?>">Contact</a>
         </div>
-        <a href="" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Get Started</a>
+        <a href="contact.php" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Get Started</a>
     </div>
 </nav>

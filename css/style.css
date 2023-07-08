@@ -490,6 +490,10 @@ h6,
         center center;
     background-repeat: no-repeat;
 }
+.newsletter a{
+    background: var(--secondary);
+    color: black;
+}
 
 
 /*** Testimonial ***/
