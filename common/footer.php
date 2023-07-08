@@ -5,9 +5,9 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Address<span></span></p>
-                        <p><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p><i class="fa fa-map-marker-alt me-3"></i>A-236, Sector-69 Noida</p>
+                        <!-- <p><i class="fa fa-phone-alt me-3"></i>+</p> -->
+                        <p><i class="fa fa-envelope me-3"></i>support@xpertlogic.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -17,11 +17,10 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Quick Link<span></span></p>
-                        <a class="btn btn-link" href="">About Us</a>
-                        <a class="btn btn-link" href="">Contact Us</a>
-                        <a class="btn btn-link" href="">Privacy Policy</a>
-                        <a class="btn btn-link" href="">Terms & Condition</a>
-                        <a class="btn btn-link" href="">Career</a>
+                        <a class="btn btn-link" href="about.php">About Us</a>
+                        <a class="btn btn-link" href="contact.php">Contact Us</a>
+                        <a class="btn btn-link" href="Projects.php">Projects</a>
+                        <a class="btn btn-link" href="Services.php">Services</a>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Gallery<span></span></p>
@@ -48,16 +47,16 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Newsletter<span></span></p>
-                        <p>Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu</p>
+                        <p>Join our community today and never miss out on the news that matters to you.</p>
                         <div class="position-relative w-100 mt-3">
                         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/embed/v2.js"></script>
-<script>
-  hbspt.forms.create({
-    region: "na1",
-    portalId: "40097068",
-    formId: "bd60300f-30ec-489d-83a5-f7b7a421a925"
-  });
-</script>
+                        <script>
+                        hbspt.forms.create({
+                            region: "na1",
+                            portalId: "40097068",
+                            formId: "bd60300f-30ec-489d-83a5-f7b7a421a925"
+                        });
+                        </script>
                         </div>
                     </div>
                 </div>
@@ -67,9 +66,6 @@
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                             &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. 
-							
-							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
@@ -89,4 +85,4 @@
   <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/40097068.js"></script>
 <!-- End of HubSpot Embed Code -->
         <!-- Back to Top -->
-        <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+        <!-- <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a> -->
