@@ -75,7 +75,7 @@
                         
                     </div>
                     <div class="col-lg-6">
-                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="img/about.png">
+                        <img class="img-fluid wow zoomIn" data-wow-delay="0.5s" alt="img" src="https://ik.imagekit.io/xpertdigital/about.png?updatedAt=1688838596324">
                     </div>
                 </div>
             </div>
