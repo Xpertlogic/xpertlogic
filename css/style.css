@@ -618,3 +618,6 @@ h6,
 .footer .footer-menu a:hover {
     color: var(--secondary);
 }
+.second-title {
+    margin-top: 50px;
+}

@@ -1,5 +1,34 @@
 <meta charset="utf-8">
-<title>DGital - Digital Agency HTML Template</title>
+<?php
+$directoryURI = $_SERVER['REQUEST_URI'];
+$path = parse_url($directoryURI, PHP_URL_PATH);
+$components = explode('/', $path);
+$first_part = end($components);
+?>
+<title>
+<?php
+switch ($first_part) {
+    case "index.php":
+        echo "Xpert Logic - We lives for transformation";
+        break;
+    case "about.php":
+        echo "Who we are - Xpert Logic";
+        break;
+    case "service.php":
+        echo "Our services - Xpert Logic";
+        break; 
+    case "project.php":
+        echo "Our clients - Xpert Logic";
+        break;
+    case "contact.php":
+        echo "Talk to use - Xpert Logic";
+        break;
+  default:
+    echo "Xpert Logic Digital";
+}
+?>
+
+</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="" name="keywords">
 <meta content="" name="description">
