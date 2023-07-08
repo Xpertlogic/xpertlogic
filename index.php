@@ -106,31 +106,31 @@
                     <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.1s">
                         <h3 class="text-white mb-4">Frontend</h3>
                         <div class="logo-container d-flex">
-                          <img src="./img/technology/react.svg" alt="react"/>  
-                          <img src="./img/technology/angular.svg" alt="angular"/>  
-                          <img src="./img/technology/vue.svg" alt="vue"/>  
-                          <img src="./img/technology/html.svg" alt="html"/>  
-                          <img src="./img/technology/css.svg" alt="css"/>   
+                          <img src="https://ik.imagekit.io/xpertdigital/react.svg?updatedAt=1688834462676" alt="react"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/angular.svg?updatedAt=1688834456633" alt="angular"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/vue.svg?updatedAt=1688834462690" alt="vue"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/html.svg?updatedAt=1688834456695" alt="html"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/css.svg?updatedAt=1688834456455" alt="css"/>   
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.3s">
                         <h3 class="text-white mb-4">Backend & CMS</h3>
                         <div class="logo-container d-flex">
-                          <img src="./img/technology/node.svg" alt="node"/>  
-                          <img src="./img/technology/magento.svg" alt="magento"/>  
-                          <img src="./img/technology/shopify.svg" alt="shopify"/>  
-                          <img src="./img/technology/prestashop.svg" alt="prestashop"/>  
-                          <img src="./img/technology/woo.svg" alt="woocommerce"/>  
-                          <img src="./img/technology/wordpress.svg" alt="wordpress" class="wp"/>  
-                          <img src="./img/technology/webflow.svg" alt="webflow"/>   
+                          <img src="https://ik.imagekit.io/xpertdigital/node.svg?updatedAt=1688834456982" alt="node"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/magento.svg?updatedAt=1688834456899" alt="magento"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/shopify.svg?updatedAt=1688834462726" alt="shopify"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/prestashop.svg?updatedAt=1688834456608" alt="prestashop"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/woo.svg?updatedAt=1688834462934" alt="woocommerce"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/wordpress.svg?updatedAt=1688834462756" alt="wordpress" class="wp"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/webflow.svg?updatedAt=1688834462606" alt="webflow"/>   
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.5s">
                         <h3 class="text-white mb-4">UI/UX</h3>
                         <div class="logo-container d-flex wide">
-                          <img src="./img/technology/figma.svg" alt="figma"/>  
-                          <img src="./img/technology/sketch.svg" alt="sketch"/>  
-                          <img src="./img/technology/adobe.svg" alt="adobe"/>    
+                          <img src="https://ik.imagekit.io/xpertdigital/figma.svg?updatedAt=1688834456612" alt="figma"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/sketch.svg?updatedAt=1688834462917" alt="sketch"/>  
+                          <img src="https://ik.imagekit.io/xpertdigital/adobe.svg?updatedAt=1688834456296" alt="adobe"/>    
                         </div>
                     </div>
                     
@@ -201,27 +201,10 @@
             </div>
         </div> -->
         <!-- Feature End -->
-        <!-- Newsletter Start -->
-        <!-- <div class="bg-primary newsletter py-5 wow fadeInUp" data-wow-delay="0.1s">
-            <div class="container py-5 px-lg-5">
-                <div class="row justify-content-center">
-                    <div class="col-lg-7 text-center">
-                        <p class="section-title text-white justify-content-center"><span></span>Newsletter<span></span>
-                        </p>
-                        <h2 class="text-center text-white mb-4">Stay Always In Touch</h2>
-                        <p class="text-white mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos
-                            labore. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo</p>
-                        <div class="position-relative w-100 mt-3">
-                            <input class="form-control border-0 rounded-pill w-100 ps-4 pe-5" type="text"
-                                placeholder="Enter Your Email" style="height: 48px;">
-                            <button type="button" class="btn shadow-none position-absolute top-0 end-0 mt-1 me-2"><i
-                                    class="fa fa-paper-plane text-primary fs-4"></i></button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <!-- Newsletter End -->
+      <!-- Newsletter Start -->
+<?php /* include 'common/newsletter.php'  */?>
+       <!-- Newsletter End -->
+        
 
 
         <!-- Projects Start -->
