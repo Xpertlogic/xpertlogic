@@ -18,7 +18,7 @@
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">Transforming Your Business with Cutting-Edge IT Solutions</h1>
+                            <h2 class="text-white mb-4 animated slideInDown">Transforming Your Business with Cutting-Edge IT Solutions</h2>
                             <p class="text-white pb-3 animated slideInDown">We specialize in delivering innovative technology solutions that 
                                 drive efficiency, productivity, and growth.XpertInfo is the trusted partner for comprehensive IT services tailored to
                                 meet the unique needs of your business.</p>
@@ -44,7 +44,7 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="section-title text-secondary">About Us<span></span></p>
-                        <h1 class="mb-5">#1 Digital solution with 10 years of experience</h1>
+                        <h2 class="mb-5">#1 Digital solution with 10 years of experience</h2>
                         <p class="mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos labore. Clita
                             erat ipsum et lorem et sit, sed stet no labore lorem sit clita duo justo eirmod magna dolore
                             erat amet</p>
@@ -94,7 +94,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our
                         Services<span></span></p>
-                    <h1 class="text-center mb-5">What Solutions We Provide</h1>
+                    <h2 class="text-center mb-5">What Solutions We Provide</h2>
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -167,8 +167,58 @@
             </div>
         </div>
         <!-- Service End -->
-
-        <!-- Facts Start -->
+        <!-- Our Tech Capabilities Start -->
+        <section class="our-capability">
+        <div class="container-xxl pt-5">
+            <div class="container pt-5 px-lg-5">
+                <div class="wow fadeInUp" data-wow-delay="0.1s">
+                    <p class="section-title text-secondary justify-content-center"><span></span>Our
+                        Capabilities<span></span></p>
+                    <h2 class="text-center mb-5">Our Technology Capabilities</h2>
+                </div>
+            </div>
+        </div>    
+        <div class="bg-primary fact pb-5 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="container py-5 px-lg-5">
+                <div class="row g-4">
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.1s">
+                        <h3 class="text-white mb-4">Frontend</h3>
+                        <div class="logo-container d-flex">
+                          <img src="./img/technology/react.svg" alt="react"/>  
+                          <img src="./img/technology/angular.svg" alt="angular"/>  
+                          <img src="./img/technology/vue.svg" alt="vue"/>  
+                          <img src="./img/technology/js.svg" alt="js"/>  
+                          <img src="./img/technology/html.svg" alt="html"/>  
+                          <img src="./img/technology/css.svg" alt="css"/>   
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.3s">
+                        <h3 class="text-white mb-4">Backend & CMS</h3>
+                        <div class="logo-container d-flex">
+                          <img src="./img/technology/node.svg" alt="node"/>  
+                          <img src="./img/technology/magento.svg" alt="magento"/>  
+                          <img src="./img/technology/shopify.svg" alt="shopify"/>  
+                          <img src="./img/technology/prestashop.svg" alt="prestashop"/>  
+                          <img src="./img/technology/woo.svg" alt="woocommerce"/>  
+                          <img src="./img/technology/wplogo.svg" alt="wordpress" class="wp"/>  
+                          <img src="./img/technology/webflow.svg" alt="webflow"/>   
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 text-center wow fadeIn" data-wow-delay="0.5s">
+                        <h3 class="text-white mb-4">UI/UX</h3>
+                        <div class="logo-container d-flex wide">
+                          <img src="./img/technology/figma.svg" alt="figma"/>  
+                          <img src="./img/technology/sketch.svg" alt="sketch"/>  
+                          <img src="./img/technology/adobe.svg" alt="adobe"/>    
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        </section>  
+        <!-- Facts End -->
+        <!-- Facts Start 
         <div class="bg-primary fact py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
@@ -195,7 +245,7 @@
                 </div>
             </div>
         </div>
-        <!-- Facts End -->
+        Facts End -->
 
 
         <!-- Feature Start -->
@@ -237,7 +287,7 @@
                     <div class="col-lg-7 text-center">
                         <p class="section-title text-white justify-content-center"><span></span>Newsletter<span></span>
                         </p>
-                        <h1 class="text-center text-white mb-4">Stay Always In Touch</h1>
+                        <h2 class="text-center text-white mb-4">Stay Always In Touch</h2>
                         <p class="text-white mb-4">Diam dolor diam ipsum et tempor sit. Aliqu diam amet diam et eos
                             labore. Clita erat ipsum et lorem et sit sed stet lorem sit clita duo justo</p>
                         <div class="position-relative w-100 mt-3">
@@ -259,7 +309,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our
                         Projects<span></span></p>
-                    <h1 class="text-center mb-5">Recently Completed Projects</h1>
+                    <h2 class="text-center mb-5">Recently Completed Projects</h2>
                 </div>
                 <div class="row mt-n2 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="col-12 text-center">
@@ -383,7 +433,7 @@
         <div class="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <p class="section-title text-secondary justify-content-center"><span></span>Testimonial<span></span></p>
-                <h1 class="text-center mb-5">What Say Our Clients!</h1>
+                <h2 class="text-center mb-5">What Say Our Clients!</h2>
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item bg-light rounded my-4">
                         <p class="fs-5"><i class="fa fa-quote-left fa-4x text-primary mt-n4 me-3"></i>Diam dolor diam
@@ -436,7 +486,7 @@
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
                     <p class="section-title text-secondary justify-content-center"><span></span>Our Team<span></span>
                     </p>
-                    <h1 class="text-center mb-5">Our Team Members</h1>
+                    <h2 class="text-center mb-5">Our Team Members</h2>
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">

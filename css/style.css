@@ -90,14 +90,23 @@ h6,
 /*** Navbar ***/
 .navbar .dropdown-toggle::after {
     border: none;
-    content: "\f067";
+    content: "\f078 ";
     font-family: "Font Awesome 5 Free";
     font-size: 10px;
     font-weight: bold;
     vertical-align: middle;
     margin-left: 8px;
 }
-
+.navbar-light .navbar-nav .nav-item .dropdown-menu.column-2{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    flex-wrap: wrap;
+}
+.navbar .dropdown-menu.column-2 .dropdown-item{
+    flex-grow: 1;
+    flex-basis: 50%;
+}
 .navbar-light .navbar-nav .nav-link {
     position: relative;
     margin-right: 25px;
@@ -131,7 +140,7 @@ h6,
 
 .sticky-top.navbar-light .navbar-brand img {
     max-height: 45px;
-    filter: invert();
+    filter: invert()  ;
 }
 
 @media (max-width: 991.98px) {
@@ -195,6 +204,7 @@ h6,
         visibility: visible;
         transition: .5s;
         opacity: 1;
+        box-shadow: 4px 5px 8px #254547;
     }
 
     .navbar-light .btn {
@@ -318,10 +328,26 @@ h6,
     transition: 3s;
 }
 
-
+/*** Our capability ***/
+.our-capability .logo-container{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap:20px;
+    padding: 10px 20px;
+}
+.logo-container img{
+    max-width: 65px;
+}
+.logo-container img.wp{
+    background-color: #FFFFFF;
+    border-radius: 50%;
+}
+.logo-container.wide img {
+    max-width: 105px;
+}
 /*** Fact ***/
 .fact {
-    margin: 6rem 0;
+    margin: 0 0 6rem;
     background:
         url(../img/blob-top-left.png),
         url(../img/blob-top-right.png),

@@ -16,6 +16,25 @@ $first_part = end($components);
             <a href="index.php" class="nav-item nav-link <?php if ($first_part=="index.php" || $first_part=="") {echo "active"; } else  {echo "noactive";}?>">Home</a>
             <a href="about.php" class="nav-item nav-link <?php if ($first_part=="about.php") {echo "active"; } else  {echo "noactive";}?>">About</a>
             <a href="service.php" class="nav-item nav-link <?php if ($first_part=="service.php") {echo "active"; } else  {echo "noactive";}?>">Service</a>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Technologies</a>
+                <div class="dropdown-menu m-0 column-2">
+                    <a href="react.php" class="dropdown-item">React Js</a>
+                    <a href="angular.php" class="dropdown-item">Angular</a>
+                    <a href="node.php" class="dropdown-item">Node Js</a>
+                    <a href="node.php" class="dropdown-item">Next Js</a>
+                    <a href="node.php" class="dropdown-item">Vue Js</a>
+                    <a href="node.php" class="dropdown-item">Wordpress CMS</a>
+                    <a href="node.php" class="dropdown-item">Webflow CMS</a>
+                    <a href="node.php" class="dropdown-item">Acquia CMS</a>
+                    <a href="node.php" class="dropdown-item">HTML</a>
+                    <a href="node.php" class="dropdown-item">CSS</a>
+                    <a href="node.php" class="dropdown-item">Magento</a>
+                    <a href="node.php" class="dropdown-item">Prestashop</a>
+                    <a href="node.php" class="dropdown-item">Shipify</a>
+                    <a href="node.php" class="dropdown-item">WooCommerce</a>
+                </div>
+            </div>
             <a href="project.php" class="nav-item nav-link <?php if ($first_part=="project.php") {echo "active"; } else  {echo "noactive";}?>">Project</a>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
