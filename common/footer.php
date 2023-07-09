@@ -12,15 +12,15 @@
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="http://linkedin.com/company/xpertlogic"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4">
                         <p class="section-title text-white h5 mb-4">Quick Link<span></span></p>
                         <a class="btn btn-link" href="about.php">About Us</a>
-                        <a class="btn btn-link" href="contact.php">Contact Us</a>
                         <a class="btn btn-link" href="services.php">Services</a>
-                        <a class="btn btn-link" href="Services.php">Services</a>
+                        <a class="btn btn-link" href="technology.php">Technologies</a>
+                        <a class="btn btn-link" href="contact.php">Contact Us</a>
                     </div>
                     
                     <div class="col-md-6 col-lg-4">
@@ -43,14 +43,14 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="index.php">Xpert Logic</a>, All Right Reserved. 
+                            2023 &copy; <a class="border-bottom" href="index.php">XpertLogic Digital</a>, All Right Reserved. 
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
                                 <a href="index.php">Home</a>
                                 <a href="#">Cookies</a>
                                 <a href="#">Help</a>
-                                <a href="#">FQAs</a>
+                                <a href="term-of-services.php">Term Of Services</a>
                             </div>
                         </div>
                     </div>
