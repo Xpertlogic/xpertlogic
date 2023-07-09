@@ -20,7 +20,7 @@
                         <div class="col-lg-6 text-center text-lg-start">
                             <h2 class="text-white mb-4 animated slideInDown">Transforming Your Business with Cutting-Edge IT Solutions</h2>
                             <p class="text-white pb-3 animated slideInDown">We specialize in delivering innovative technology solutions that 
-                                drive efficiency, productivity, and growth.XpertInfo is the trusted partner for comprehensive IT services tailored to
+                                drive efficiency, productivity, and growth. XpertLogic Digital is the trusted partner for comprehensive IT services tailored to
                                 meet the unique needs of your business.</p>
                             <a href="about.php"
                                 class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Read
@@ -44,9 +44,12 @@
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                         <p class="section-title text-secondary">About Us<span></span></p>
-                        <h2 class="mb-5"># About Xpert Logic Digital Pvt. Ltd.</h2>
-                        <p class="mb-4">At Xpert Logic Digital Pvt Ltd, we are a leading provider of comprehensive IT services, dedicated to helping businesses achieve their digital goals.</p>
-                        <div class="skill mb-4">
+                        <h2 class="mb-5"># About XpertLogic Digital Pvt. Ltd.</h2>
+                        <p class="mb-4">We are a leading software company dedicated to providing innovative digital solutions that empower businesses to achieve their goals. 
+                            With a team of highly skilled software experts, we specialize in delivering cutting-edge software development, custom web applications, 
+                            mobile app development, and robust digital strategies.
+                        </p>
+                            <div class="skill mb-4">
                             <div class="d-flex justify-content-between">
                                 <p class="mb-2">Web App Development</p>
                                 <p class="mb-2">85%</p>
