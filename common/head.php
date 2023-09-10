@@ -9,7 +9,7 @@ $first_part = end($components);
 <?php
 switch ($first_part) {
     case "index.php":
-        echo "Xpert Logic - We lives for transformation";
+        echo "Xpert Logic | IT Solutions for Streamlined Business Operations";
         break;
     case "about.php":
         echo "Who we are - Xpert Logic";
@@ -30,9 +30,8 @@ switch ($first_part) {
 
 </title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
-<meta content="" name="keywords">
-<meta content="" name="description">
-
+<meta name="description" content="XpertLogic offers cutting-edge IT solutions to optimize your business processes. Our experts deliver tailored software and tech support for seamless operations. Contact us today!">
+<meta name="keywords" content="IT solutions, Software development, Tech support, Business optimization, Cloud computing, Cybersecurity, Data analytics">
 <!-- Favicon -->
 <link href="img/favicon.png" rel="icon">
 
@@ -56,3 +55,13 @@ switch ($first_part) {
 
 <!-- Template Stylesheet -->
 <link href="css/style.css" rel="stylesheet">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C7JP5FGWV8"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C7JP5FGWV8');
+</script>
