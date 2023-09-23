@@ -31,8 +31,8 @@
                             <img class="img-fluid flex-shrink-0 rounded-circle" alt="img" src="img/user.jpg"
                                 style="width: 65px; height: 65px;">
                             <div class="ps-4">
-                                <h5 class="mb-1">Ashutosh Kumar</h5>
-                                <span>CEO, Bitzy Infotech</span>
+                                <h5 class="mb-1">Ashutosh Sahoo</h5>
+                                <span>Marketing Manager, Bitzy Infotech</span>
                             </div>
                         </div>
                     </div>
